@@ -1,3 +1,3 @@
 Shareify za školu programiranja.
 
-Korake za igraonu imate u fajlu Koraci!
+Za igraonu probajte pokrenuti na desni klik pa Run as Administrator, ako ne uspije i dobijete error onda korake za igraonu imate u fajlu Koraci!
